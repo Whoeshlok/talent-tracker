@@ -1,0 +1,57 @@
+{
+  "athletes": [
+    {
+      "id": "6f29f624-ef07-4d8c-bae1-8cde4238d6ed",
+      "name": "Arjun Kumar",
+      "age": 19,
+      "gender": "Male",
+      "state": "Maharashtra",
+      "sport_interest": "Athletics",
+      "contact_info": {},
+      "created_at": "2025-08-28T12:53:38.692220",
+      "updated_at": "2025-08-28T12:53:38.692225",
+      "status": "active",
+      "assessments_completed": 0,
+      "best_scores": {},
+      "notes": []
+    },
+    {
+      "id": "ff3161f7-c0a1-4e63-998e-0625eac6c536",
+      "name": "Priya Singh",
+      "age": 17,
+      "gender": "Female",
+      "state": "Punjab",
+      "sport_interest": "Swimming",
+      "contact_info": {},
+      "created_at": "2025-08-28T12:53:38.693246",
+      "updated_at": "2025-08-28T12:53:38.693252",
+      "status": "active",
+      "assessments_completed": 0,
+      "best_scores": {},
+      "notes": []
+    },
+    {
+      "id": "7225760c-9cba-4141-8b0b-a0ebad681976",
+      "name": "Rajesh Patel",
+      "age": 22,
+      "gender": "Male",
+      "state": "Gujarat",
+      "sport_interest": "Wrestling",
+      "contact_info": {},
+      "created_at": "2025-08-28T12:53:38.694619",
+      "updated_at": "2025-08-28T12:53:38.694625",
+      "status": "active",
+      "assessments_completed": 0,
+      "best_scores": {},
+      "notes": []
+    }
+  ],
+  "assessments": [],
+  "officials": [],
+  "benchmarks": [],
+  "metadata": {
+    "version": "1.0",
+    "created": "2025-08-28T12:53:38.691694",
+    "last_updated": "2025-08-28T12:53:38.694692"
+  }
+}
